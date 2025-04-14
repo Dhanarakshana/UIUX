@@ -40,3 +40,7 @@ Final Touches:
 Refined typography and color palette for accessibility and consistency.
 
 Ensured the layout is responsive and mobile-friendly.
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/cac47306-5bb2-4a54-9ccb-f1141f10dd33)
